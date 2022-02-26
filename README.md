@@ -1,6 +1,6 @@
 # On Regret with Multiple Best Arms
 
-This is the python code for NeurIPS 2020 paper **On Regret with Multiple Best Arms**. Packages used include: numpy, pandas, time, multiprocessing, copy, functools, datatime, matplotlib, math and sys. 
+This repository contains the python code for NeurIPS 2020 paper **On Regret with Multiple Best Arms**. Packages used include: numpy, pandas, time, multiprocessing, copy, functools, datatime, matplotlib, math and sys. 
 
 Use the following commands to reproduce our experiments in Figure 2.
 
