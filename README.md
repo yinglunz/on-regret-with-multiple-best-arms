@@ -9,7 +9,7 @@ python3 regret_wrt_alpha.py
 python3 regret_curve.py 0
 ```
 
-To reproduce our experiment in Figure 3, first obtain `652_summary_KLUCB.csv` from this [website]([GitHub - nextml/caption-contest-data: Data from the New Yorker Caption Contest](https://github.com/nextml/caption-contest-data)), and then use the following commands.
+To reproduce our experiment in Figure 3, first obtain `652_summary_KLUCB.csv` from this [website](https://github.com/nextml/caption-contest-data), and then use the following commands.
 
 ```
 python3 csv_reader.py
